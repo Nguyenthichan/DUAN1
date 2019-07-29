@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\chan39a\chan39a\bin\chan39a.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\chan39a\chan39a\bin\chan39a.dll
+c:\users\admin\documents\visual studio 2013\Projects\chan39a\chan39a\bin\chan39a.pdb
+c:\users\admin\documents\visual studio 2013\Projects\chan39a\chan39a\obj\Debug\chan39a.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\chan39a\chan39a\obj\Debug\chan39a.dll
+c:\users\admin\documents\visual studio 2013\Projects\chan39a\chan39a\obj\Debug\chan39a.pdb
