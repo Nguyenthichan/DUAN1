@@ -13,5 +13,16 @@ namespace chan39a
         {
 
         }
+
+        protected void btnupload_Click(object sender, EventArgs e)
+        {
+            if (Page.IsValid && FileUpload1.HasFile)
+            {
+                string fileName ="images/"+FileUpload1.FileName;
+                string filePath = MapPath(fileName);
+                FileUpload1.SaveAs(filePath);
+                Image1.ImageUrl = fileName;
+            }
+        }
     }
 }
