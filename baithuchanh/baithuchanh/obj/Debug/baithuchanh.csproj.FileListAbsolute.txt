@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\baithuchanh\baithuchanh\bin\baithuchanh.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\baithuchanh\baithuchanh\bin\baithuchanh.dll
+c:\users\admin\documents\visual studio 2013\Projects\baithuchanh\baithuchanh\bin\baithuchanh.pdb
+c:\users\admin\documents\visual studio 2013\Projects\baithuchanh\baithuchanh\obj\Debug\baithuchanh.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\baithuchanh\baithuchanh\obj\Debug\baithuchanh.dll
+c:\users\admin\documents\visual studio 2013\Projects\baithuchanh\baithuchanh\obj\Debug\baithuchanh.pdb
