@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\chan3951050040\chan3951050040\bin\chan3951050040.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\chan3951050040\chan3951050040\bin\chan3951050040.dll
+c:\users\admin\documents\visual studio 2013\Projects\chan3951050040\chan3951050040\bin\chan3951050040.pdb
+c:\users\admin\documents\visual studio 2013\Projects\chan3951050040\chan3951050040\obj\Debug\chan3951050040.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\chan3951050040\chan3951050040\obj\Debug\chan3951050040.dll
+c:\users\admin\documents\visual studio 2013\Projects\chan3951050040\chan3951050040\obj\Debug\chan3951050040.pdb
