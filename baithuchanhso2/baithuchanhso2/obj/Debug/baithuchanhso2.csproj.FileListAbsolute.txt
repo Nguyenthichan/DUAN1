@@ -1,0 +1,6 @@
+C:\Baitap1Dotnet\baithuchanhso2\baithuchanhso2\bin\baithuchanhso2.dll.config
+C:\Baitap1Dotnet\baithuchanhso2\baithuchanhso2\bin\baithuchanhso2.dll
+C:\Baitap1Dotnet\baithuchanhso2\baithuchanhso2\bin\baithuchanhso2.pdb
+C:\Baitap1Dotnet\baithuchanhso2\baithuchanhso2\obj\Debug\baithuchanhso2.csprojResolveAssemblyReference.cache
+C:\Baitap1Dotnet\baithuchanhso2\baithuchanhso2\obj\Debug\baithuchanhso2.dll
+C:\Baitap1Dotnet\baithuchanhso2\baithuchanhso2\obj\Debug\baithuchanhso2.pdb
