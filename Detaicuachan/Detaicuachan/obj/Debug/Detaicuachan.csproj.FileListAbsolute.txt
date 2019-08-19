@@ -1,0 +1,6 @@
+C:\Baitap1Dotnet\Detaicuachan\Detaicuachan\bin\Detaicuachan.dll.config
+C:\Baitap1Dotnet\Detaicuachan\Detaicuachan\bin\Detaicuachan.dll
+C:\Baitap1Dotnet\Detaicuachan\Detaicuachan\bin\Detaicuachan.pdb
+C:\Baitap1Dotnet\Detaicuachan\Detaicuachan\obj\Debug\Detaicuachan.dll
+C:\Baitap1Dotnet\Detaicuachan\Detaicuachan\obj\Debug\Detaicuachan.pdb
+C:\Baitap1Dotnet\Detaicuachan\Detaicuachan\obj\Debug\Detaicuachan.csprojResolveAssemblyReference.cache
